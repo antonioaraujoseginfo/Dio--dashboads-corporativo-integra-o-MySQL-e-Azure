@@ -1,6 +1,6 @@
-# Dio--dashboads-corporativo-integra-o-MySQL-e-Azure
+# Dio-dashboads-corporativo com integra do MySQL e Azure
 
-Criar um dashboard corporativo que integra dados do MySQL e do Azure envolve várias etapas, incluindo a configuração do ambiente de banco de dados, a integração com ferramentas de visualização de dados e a segurança dos dados. Aqui está um guia passo a passo para ajudá-lo:
+Criar um dashboard corporativo que integra dados do MySQL e do Azure envolve várias etapas, incluindo a configuração do ambiente de banco de dados, a integração com ferramentas de visualização de dados e a segurança dos dados. Aqui 
 
 ### 1. **Configuração do Banco de Dados MySQL**
 
